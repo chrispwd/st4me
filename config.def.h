@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Hack Nerd Font Mono:style=Medium:pixelsize=14";
+static char *font = "Iosevka Nerd Font Mono:style=Medium:pixelsize=16";
 static int borderpx = 2;
 
 /*
